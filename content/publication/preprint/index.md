@@ -41,7 +41,7 @@ url_pdf: https://www.cesifo.org/DocDL/cesifo1_wp9836.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'A drawing'
+  caption: 'A technical drawing of a threshing machine'
   focal_point: ""
   preview_only: false
 
