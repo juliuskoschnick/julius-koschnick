@@ -128,7 +128,7 @@ sections:
           company_url: ''
           company_logo: uni
           location: London, UK
-          date_start: '2021-01-01'
+          date_start: '2019-09-01'
           date_end: ''
           description: 'Thesis title: On the Shoulders of Science - Scientific Culture as a Driver of Innovation During the Early Industrial Revolution
           
