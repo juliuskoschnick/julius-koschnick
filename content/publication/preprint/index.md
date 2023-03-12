@@ -1,8 +1,10 @@
 ---
-title: "An example preprint / working paper"
+title: "Flow of Ideas: Economic Societies and the Rise of Useful Knowledge"
 authors:
+- Francesco Cinnirella
+- Erik Hornung
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2022-07-06T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -14,35 +16,32 @@ publishDate: "2017-01-01T00:00:00Z"
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
 
+
+
+
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Economic societies emerged during the late eighteenth-century. We argue that these institutions reduced the costs of accessing useful knowledge by adopting, producing, and diffusing new ideas. Combining location information for the universe of 3,300 members across active economic societies in Germany with those of patent holders and World's Fair exhibitors, we show that regions with more members were more innovative in the late nineteenth-century. This long-lasting effect of societies arguably arose through agglomeration economies and localized knowledge spillovers. To support this claim, we provide evidence suggesting an immediate increase in manufacturing, an earlier establishment of vocational schools, and a higher density of highly skilled mechanical workers by mid-nineteenth century in regions with more members. We also show that regions with members from the same society had higher similarity in patenting, suggesting that social networks facilitated spatial knowledge diffusion and, to some extent, shaped the geography of innovation.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Economic societies emerged during the late eighteenth-century. We argue that these institutions reduced the costs of accessing useful knowledge by adopting, producing, and diffusing new ideas.
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+- name: Policy column at VoxEU
+  url: https://cepr.org/voxeu/columns/importance-access-knowledge-technological-progress-industrial-revolution
+url_pdf: https://www.cesifo.org/DocDL/cesifo1_wp9836.pdf
+#url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'A drawing'
   focal_point: ""
   preview_only: false
 
@@ -59,7 +58,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
 {{% callout note %}}
