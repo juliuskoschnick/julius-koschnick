@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Julius Koschnick
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Julius
+last_name: Koschnick
 
 # Status emoji
 status:
@@ -14,21 +14,24 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: London School of Economics, Departement of Economic History
+    url: https://www.lse.ac.uk/economic-history
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests focus on the long-run development of new knowledge and its economic impact. My studies go back as far as the seventeenth century and look at the role that education and research institutions played in changing advanced knowledge and disseminating it. I look at institutional change, institutional co-dependency, and path dependence in the development of historical scientific communities as well as the merging of social spheres between the savant and entrepreneur.
+
+
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Long-run growth
+  - Human capital
+  - Knowledge transmission
+  - Natural language processing
 
 # Education to show in About widget
 education:
@@ -53,7 +56,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/juliuskoschnick
     label: Follow me on Twitter
     display:
       header: true
@@ -80,5 +83,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Julius Koschnick is a PhD student in econmic history at the London School of Economics. His research interests include long-run growth, human capital, knowledge transmission, and natural language processing. 
 {style="text-align: justify;"}
