@@ -1,6 +1,6 @@
 ---
 title: 'Breaking Tradition: Teacher-student effects during the Scientific Revolution'
-summary: What forces shaped the lifetime movements of the the British scientific elite during the eighteenth century?
+summary: An empirical investigation of how knowledge transmission between teachers and students shaped the direciton of research at the universities of Oxford and Cambridge during the Scientific Revolution
 tags:
   - Natural language processing
   - Directed scientific change
