@@ -8,7 +8,7 @@ last_name: Koschnick
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -22,7 +22,7 @@ organizations:
     url: https://www.lse.ac.uk/economic-history
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student at the Department of Econmic History at the London School of Economics. My research interests include long-run growth, human capital, knowledge transmission, and natural language processing. 
+bio: I am a PhD student at the Department of Economic History at the London School of Economics. My research interests include long-run growth, human capital, knowledge transmission, and natural language processing. 
 
 
 
@@ -77,5 +77,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD student at the Department of Econmic History at the London School of Economics. My research interests include long-run growth, human capital, knowledge transmission, and natural language processing. 
+I am a PhD student at the Department of Economic History at the London School of Economics. My research interests include long-run growth, human capital, knowledge transmission, and natural language processing. 
 {style="text-align: justify;"} {{% staticref "uploads/resume.pdf" %}}Download my CV{{% /staticref %}}

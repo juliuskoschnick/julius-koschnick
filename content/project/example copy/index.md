@@ -11,10 +11,10 @@ tags:
 date: '2023-02-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://blogs.lse.ac.uk/economichistory/2022/05/19/spreading-the-scientific-revolution-in-english-universities/'
+#external_link: 'https://blogs.lse.ac.uk/economichistory/2022/05/19/spreading-the-scientific-revolution-in-english-universities/'
 
 image:
-  caption: The old scholar by Godfrey Kellner
+  caption: The old scholar by Godfrey Kneller, Wikimedia, public domain
   focal_point: Smart
 
 links:
@@ -42,3 +42,4 @@ The paper introduces a novel dataset on the universe of all 111,242 students at 
 
 The paper finds a strong effect of teachers publishing in the fields of the Scientific Revolution on their students picking up the same field as well as producing more innovative publications within the field. Causality is inferred through using a natural experiment based on the expulsion of old fellows and intrusion of new fellow following the English Civil War. The paper further introduces a shift-share type of instrument that predicts students’ choice of colleges based on the historically strong local links between colleges and English regions. Overall, the paper shows that the English universities were important for inspiring the next generation of English scientists. With this, it adds another dimension to the literature on the Great Divergence by highlighting the importance of the design and practise of knowledge transmission within institutions of higher learning.
 
+[See my LSE blog post and poster](https://blogs.lse.ac.uk/economichistory/2022/05/19/spreading-the-scientific-revolution-in-english-universities/)
