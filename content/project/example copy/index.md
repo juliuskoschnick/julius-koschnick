@@ -1,14 +1,14 @@
 ---
-title: 'Breaking Tradition: Teacher-student effects during the Scientific Revolution'
-summary: An empirical investigation of how knowledge transmission between teachers and students shaped the direciton of research at the universities of Oxford and Cambridge during the Scientific Revolution
+title: 'Teacher-directed scientific change: The case of the English Scientific Revolution'
+summary: An empirical investigation of how knowledge transmission between teachers and students shaped the direction of research at the universities of Oxford and Cambridge during the Scientific Revolution
 tags:
+  - Human capital
   - Natural language processing
-  - Directed scientific change
   - Machine learning
   - Knowledge transmission
   - Economics of education
   - Other
-date: '2023-02-01T00:00:00Z'
+date: '2023-07-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 #external_link: 'https://blogs.lse.ac.uk/economichistory/2022/05/19/spreading-the-scientific-revolution-in-english-universities/'
