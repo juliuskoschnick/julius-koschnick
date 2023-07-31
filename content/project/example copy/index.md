@@ -14,7 +14,7 @@ date: '2023-02-01T00:00:00Z'
 #external_link: 'https://blogs.lse.ac.uk/economichistory/2022/05/19/spreading-the-scientific-revolution-in-english-universities/'
 
 image:
-  caption: The old scholar by Godfrey Kneller, Wikimedia, public domain
+  caption: Generated using midjourney
   focal_point: Smart
 
 links:
