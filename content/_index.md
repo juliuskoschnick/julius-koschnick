@@ -141,7 +141,7 @@ sections:
           location: Evanston, IL, USA
           date_start: '2022-09-01'
           date_end: '2022-12-31'
-          description: Visiting scholar at the Department of Economics, hosted by Prof. Joel Mokyr.
+          description: Visiting scholar at the Department of Economics, hosted by Prof. Joel Mokyr
         - title: MSc Economic History (Research)
           company: London School of Economics
           company_url: ''
