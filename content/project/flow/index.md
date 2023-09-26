@@ -4,6 +4,7 @@ summary: (with Erik Hornung and Francesco Cinnirella) Economic societies emerged
 tags:
   - Human capital
   - Knowledge transmission
+  - Germany
   - Other
 date: '2023-02-01T00:00:00Z'
 
@@ -15,12 +16,14 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+- name: Policy column at VoxEU
+  url: https://cepr.org/voxeu/columns/importance-access-knowledge-technological-progress-industrial-revolution
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/juliuskoschnick
 url_code: ''
-url_pdf: ''
+url_pdf: 'https://www.cesifo.org/DocDL/cesifo1_wp9836.pdf'
 url_slides: ''
 url_video: ''
 

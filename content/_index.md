@@ -81,10 +81,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Human capital
-          tag: Human capital
-        - name: Natural language processing
-          tag: Natural language processing
+        - name: England
+          tag: England
+        - name: Germany
+          tag: Germany
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'

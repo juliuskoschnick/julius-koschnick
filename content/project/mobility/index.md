@@ -4,6 +4,7 @@ summary: What shaped the mobility of British scientists during the time of the I
 tags:
   - Human capital
   - Knowledge transmission
+  - England
   - Other
 date: '2023-02-01T00:00:00Z'
 
@@ -18,7 +19,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/juliuskoschnick
 url_code: ''
 url_pdf: ''
 url_slides: ''

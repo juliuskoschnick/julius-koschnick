@@ -7,6 +7,7 @@ tags:
   - Machine learning
   - Knowledge transmission
   - Economics of education
+  - England
   - Other
 date: '2023-07-01T00:00:00Z'
 
@@ -21,9 +22,9 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/juliuskoschnick
 url_code: ''
-url_pdf: ''
+url_pdf: 'https://www.dropbox.com/scl/fi/846x0fcrhvg66829c6x67/JMP-Julius-Koschnick-26.09.2023.pdf?rlkey=f4bcmc69ukr7jrqbb6fuz6r59&dl=0'
 url_slides: ''
 url_video: ''
 
