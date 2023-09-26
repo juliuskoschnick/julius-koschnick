@@ -30,7 +30,7 @@ summary: Economic societies emerged during the late eighteenth-century. We argue
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 links:
 - name: Policy column at VoxEU

@@ -22,7 +22,7 @@ organizations:
     url: https://www.lse.ac.uk/economic-history
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student at the Department of Economic History at the London School of Economics. My research interests include long-run growth, human capital, knowledge transmission, and natural language processing. 
+bio: I am a PhD student at the Department of Economic History at the London School of Economics. I am on the job market this year. My research interests include long-run growth, human capital, knowledge transmission, and natural language processing. 
 
 
 
@@ -77,5 +77,9 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD student at the Department of Economic History at the London School of Economics. My research interests include long-run growth, human capital formation, knowledge transmission, and natural language processing. 
+I am a PhD student at the Department of Economic History at the London School of Economics. I am on the job market this year. My research interests include long-run growth, human capital formation, knowledge transmission, and natural language processing. 
 {style="text-align: justify;"} {{% staticref "uploads/resume.pdf" %}}Download my CV{{% /staticref %}}
+
+{style="text-align: justify;"} {{% staticref "https://www.dropbox.com/scl/fi/846x0fcrhvg66829c6x67/JMP-Julius-Koschnick-26.09.2023.pdf?rlkey=f4bcmc69ukr7jrqbb6fuz6r59&dl=0" %}}Download my JMP{{% /staticref %}}
+
+

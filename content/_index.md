@@ -40,6 +40,17 @@ sections:
   #     view: compact
   #     columns: '2'
   - block: collection
+    id: featured
+    content:
+      title: Job market paper
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
+  - block: collection
     content:
       title: Recent working papers
       text: |-
@@ -49,7 +60,7 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: false
+        exclude_featured: true
     design:
       columns: '2'
       view: citation
@@ -100,17 +111,6 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured working papers
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
   - block: experience
     content:
       title: Short CV
@@ -130,7 +130,7 @@ sections:
           location: London, UK
           date_start: '2019-09-01'
           date_end: ''
-          description: 'Thesis title: On the Shoulders of Science - Scientific Culture as a Driver of Innovation During the Early Industrial Revolution
+          description: 'Thesis title: On the Shoulders of Science - Early Science as a Driver of Innovation During the Early Industrial Revolution
           
 
           Supervisors: Prof. Max-Stephan Schulze and Dr. Jeremiah Dittmar'
