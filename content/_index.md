@@ -216,7 +216,7 @@ sections:
       text: |-
         
       # Contact (add or remove contact options as necessary)
-      email: julius.koschnick@lse.ac.uk
+      email: j.koschnick@lse.ac.uk
       #phone: 888 888 88 88
       appointment_url: 'https://calendly.com'
       office_hours:
