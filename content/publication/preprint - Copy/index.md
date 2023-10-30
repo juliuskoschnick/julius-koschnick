@@ -31,7 +31,7 @@ tags:
 featured: true
 
 links:
-url_pdf: https://www.dropbox.com/scl/fi/mh1b06kp4s7hgtoul8ayl/JMP-Julius-Koschnick-30.10.2023.pdf?rlkey=bndwanaguv4dd9w4aoyxoncvn&dl=0
+url_pdf: https://www.dropbox.com/scl/fi/ifwvbaeza5jlwfavjd968/JMP-Julius-Koschnick-30.10.2023.pdf?rlkey=5rad7lu202cekfcvchmuqtgu7&dl=0
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 
 # Featured image
