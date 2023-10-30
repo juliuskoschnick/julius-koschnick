@@ -15,7 +15,7 @@ date: '2023-07-01T00:00:00Z'
 #external_link: 'https://blogs.lse.ac.uk/economichistory/2022/05/19/spreading-the-scientific-revolution-in-english-universities/'
 
 image:
-  caption: Generated using midjourney
+  caption: Generated using midjourney 3.5
   focal_point: Smart
 
 links:
