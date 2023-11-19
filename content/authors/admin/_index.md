@@ -43,7 +43,7 @@ education:
       institution: London School of Economics
       year: 2019
     - course: BA Philosophy & Economics
-      institution: Massachusetts Institute of Technology
+      institution: University of Bayreuth
       year: 2017
 
 # Social/Academic Networking

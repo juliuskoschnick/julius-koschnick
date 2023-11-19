@@ -33,6 +33,7 @@ featured: true
 links:
 url_pdf: https://www.dropbox.com/scl/fi/ifwvbaeza5jlwfavjd968/JMP-Julius-Koschnick-30.10.2023.pdf?rlkey=5rad7lu202cekfcvchmuqtgu7&dl=0
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_video: 'https://vimeo.com/886100295?share=copy'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

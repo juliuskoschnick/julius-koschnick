@@ -26,7 +26,7 @@ links:
 url_code: ''
 url_pdf: 'https://www.dropbox.com/scl/fi/mh1b06kp4s7hgtoul8ayl/JMP-Julius-Koschnick-30.10.2023.pdf?rlkey=bndwanaguv4dd9w4aoyxoncvn&dl=0'
 url_slides: ''
-url_video: ''
+url_video: 'https://vimeo.com/886100295?share=copy'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
