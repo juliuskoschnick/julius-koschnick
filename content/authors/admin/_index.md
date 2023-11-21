@@ -80,6 +80,6 @@ highlight_name: true
 I am a PhD student at the Department of Economic History at the London School of Economics. I am on the job market this year. My research interests include long-run growth, human capital formation, knowledge transmission, and natural language processing. 
 {style="text-align: justify;"} {{% staticref "uploads/resume.pdf" %}}Download my CV{{% /staticref %}}
 
-{style="text-align: justify;"} {{% staticref "https://www.dropbox.com/scl/fi/ifwvbaeza5jlwfavjd968/JMP-Julius-Koschnick-30.10.2023.pdf?rlkey=5rad7lu202cekfcvchmuqtgu7&dl=0" %}}Download my JMP{{% /staticref %}}
+{style="text-align: justify;"} {{% staticref "https://www.dropbox.com/scl/fi/8zof9a783y7xco0sxsp67/JMP-Julius-Koschnick-21.11.2023.pdf?rlkey=1zz3ypzzcwrgzt7mavwfscay8&dl=0" %}}Download my JMP{{% /staticref %}}
 
 
