@@ -24,7 +24,7 @@ links:
     name: Follow
     url: https://twitter.com/juliuskoschnick
 url_code: ''
-url_pdf: 'https://www.dropbox.com/scl/fi/8zof9a783y7xco0sxsp67/JMP-Julius-Koschnick-21.11.2023.pdf?rlkey=1zz3ypzzcwrgzt7mavwfscay8&dl=0'
+url_pdf: 'https://www.dropbox.com/scl/fi/vzsyd0ln4n78348uaumvj/JMP-Julius-Koschnick-10.12.2023.pdf?rlkey=bodfdrk7x336j9jj21if6dkow&dl=0'
 url_slides: ''
 url_video: 'https://vimeo.com/886100295?share=copy'
 
