@@ -22,7 +22,7 @@ organizations:
     url: https://www.lse.ac.uk/economic-history
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student at the Department of Economic History at the London School of Economics. I am on the job market this year. My research interests include long-run growth, human capital, knowledge transmission, and natural language processing. 
+bio: I am an incoming Assistant Professor at the Historical Economics and Development Group (HEDG) at the Department of Economics at the University of Southern Denmark (SDU). I earned my PhD in Economic History at the London School of Economics supervised by Max Schulze and Jeremiah Dittmar. My research interests include long-run growth, human capital formation, knowledge transmission, and natural language processing.
 
 
 
@@ -76,8 +76,9 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I am an incoming Assistant Professor at the Historical Economics and Development Group (HEDG) at the Department of Economics at the University of Southern Denmark (SDU). I earned my PhD in Economic History at the London School of Economics supervised by Max Schulze and Jeremiah Dittmar. 
 
-I am a PhD student at the Department of Economic History at the London School of Economics. I am on the job market this year. My research interests include long-run growth, human capital formation, knowledge transmission, and natural language processing. 
+My research interests include long-run growth, human capital formation, knowledge transmission, and natural language processing. 
 {style="text-align: justify;"} {{% staticref "uploads/resume.pdf" %}}Download my CV{{% /staticref %}}
 
 {style="text-align: justify;"} {{% staticref "https://www.dropbox.com/scl/fi/vzsyd0ln4n78348uaumvj/JMP-Julius-Koschnick-10.12.2023.pdf?rlkey=bodfdrk7x336j9jj21if6dkow&dl=0" %}}Download my JMP{{% /staticref %}}

@@ -123,13 +123,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: PhD candidate
+        - title: PhD in Economic History
           company: London School of Economics
           company_url: ''
           company_logo: uni
           location: London, UK
           date_start: '2019-09-01'
-          date_end: ''
+          date_end: '2024-04-30'
           description: 'Thesis title: On the Shoulders of Science - Early Science as a Driver of Innovation During the Early Industrial Revolution
           
 
