@@ -125,7 +125,7 @@ sections:
       items:
         - title: Assistant Professor
           company: University of Southern Denmark
-          description: At the Department of Economics, part of the Danish Institute of Advanced Study (DIAS) and of the Historical Economics and Development Group (HEDG group) 
+          description: At the Department of Economics, part of the Danish Institute of Advanced Study (DIAS) and of the Historical Economics and Development Group (HEDG) 
           company_logo: uni
           location: Odense, Denmark
           date_start: '2024-08-15'
