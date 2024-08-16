@@ -123,6 +123,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Assistant Professor
+          company: University of Southern Denmark
+          description: At the Department of Economics and part of the Historical Economics and Development Group (HEDG group)
+          company_logo: uni
+          location: Odense, Denmark
+          date_start: '2024-08-15'
         - title: PhD in Economic History
           company: London School of Economics
           company_url: ''
