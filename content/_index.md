@@ -125,7 +125,7 @@ sections:
       items:
         - title: Assistant Professor
           company: University of Southern Denmark
-          description: At the Department of Economics and part of the Historical Economics and Development Group (HEDG group)
+          description: At the Department of Economics and part of the Historical Economics and Development Group (HEDG group) 
           company_logo: uni
           location: Odense, Denmark
           date_start: '2024-08-15'
