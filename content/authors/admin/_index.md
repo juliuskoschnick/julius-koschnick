@@ -76,7 +76,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am an Assistant Professor at the Department of Economics at the University of Southern Denmark (SDU), part of the Danish Institute for Advanced Study (DIAS), and of the Historical Economics and Development Group (HEDG) there. I earned my PhD in Economic History at the London School of Economics supervised by Max Schulze and Jeremiah Dittmar. 
+I am an Assistant Professor at the Department of Economics at the University of Southern Denmark (SDU), part of the Danish Institute for Advanced Study (DIAS) and of the Historical Economics and Development Group (HEDG) there. I earned my PhD in Economic History at the London School of Economics supervised by Max Schulze and Jeremiah Dittmar. 
 
 My research interests include long-run growth, human capital formation, knowledge transmission, and natural language processing. 
 {style="text-align: justify;"} {{% staticref "uploads/resume.pdf" %}}Download my CV{{% /staticref %}}
