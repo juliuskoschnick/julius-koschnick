@@ -14,15 +14,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: London School of Economics, Departement of Economic History
-    url: https://www.lse.ac.uk/economic-history
+  - name: University of Southern Denmark, Department of Economics
+    url: https://portal.findresearcher.sdu.dk/en/persons/juko
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an incoming Assistant Professor at the Historical Economics and Development Group (HEDG) at the Department of Economics at the University of Southern Denmark (SDU). I earned my PhD in Economic History at the London School of Economics supervised by Max Schulze and Jeremiah Dittmar. My research interests include long-run growth, human capital formation, knowledge transmission, and natural language processing.
+bio: I am an Assistant Professor at the Historical Economics and Development Group (HEDG) at the Department of Economics at the University of Southern Denmark (SDU). I earned my PhD in Economic History at the London School of Economics supervised by Max Schulze and Jeremiah Dittmar. My research interests include long-run growth, human capital formation, knowledge transmission, and natural language processing.
 
 
 
@@ -38,7 +38,7 @@ education:
   courses:
     - course: PhD candidate in Economic History
       institution: London School of Economics
-      year: 2019-now
+      year: 2019-2024
     - course: MSc Economic History (Research)
       institution: London School of Economics
       year: 2019
@@ -76,7 +76,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am an incoming Assistant Professor at the Historical Economics and Development Group (HEDG) at the Department of Economics at the University of Southern Denmark (SDU). I earned my PhD in Economic History at the London School of Economics supervised by Max Schulze and Jeremiah Dittmar. 
+I am an Assistant Professor at the Historical Economics and Development Group (HEDG) at the Department of Economics at the University of Southern Denmark (SDU). I earned my PhD in Economic History at the London School of Economics supervised by Max Schulze and Jeremiah Dittmar. 
 
 My research interests include long-run growth, human capital formation, knowledge transmission, and natural language processing. 
 {style="text-align: justify;"} {{% staticref "uploads/resume.pdf" %}}Download my CV{{% /staticref %}}
