@@ -52,7 +52,7 @@ sections:
       view: card
   - block: collection
     content:
-      title: Recent working papers
+      title: Publications and working papers
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).

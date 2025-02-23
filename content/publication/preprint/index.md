@@ -4,7 +4,7 @@ authors:
 - Francesco Cinnirella
 - Erik Hornung
 - admin
-date: "2022-07-06T00:00:00Z"
+date: "2024-12-13T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -14,14 +14,14 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 
 
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "The Economic Journal"
+publication_short: "The Economic Journal"
 
 abstract: Economic societies emerged during the late eighteenth-century. We argue that these institutions reduced the costs of accessing useful knowledge by adopting, producing, and diffusing new ideas. Combining location information for the universe of 3,300 members across active economic societies in Germany with those of patent holders and World's Fair exhibitors, we show that regions with more members were more innovative in the late nineteenth-century. This long-lasting effect of societies arguably arose through agglomeration economies and localized knowledge spillovers. To support this claim, we provide evidence suggesting an immediate increase in manufacturing, an earlier establishment of vocational schools, and a higher density of highly skilled mechanical workers by mid-nineteenth century in regions with more members. We also show that regions with members from the same society had higher similarity in patenting, suggesting that social networks facilitated spatial knowledge diffusion and, to some extent, shaped the geography of innovation.
 
@@ -35,7 +35,7 @@ featured: false
 links:
 - name: Policy column at VoxEU
   url: https://cepr.org/voxeu/columns/importance-access-knowledge-technological-progress-industrial-revolution
-url_pdf: https://www.cesifo.org/DocDL/cesifo1_wp9836.pdf
+url_pdf: https://academic.oup.com/ej/advance-article/doi/10.1093/ej/ueae115/7923516
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 
 # Featured image
