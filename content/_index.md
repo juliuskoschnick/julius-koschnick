@@ -42,7 +42,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Job market paper
+      title: Latest draft
       filters:
         folders:
           - publication

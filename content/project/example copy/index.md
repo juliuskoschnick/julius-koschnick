@@ -9,7 +9,7 @@ tags:
   - Economics of education
   - England
   - Other
-date: '2023-07-01T00:00:00Z'
+date: '2025-03-03T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 #external_link: 'https://blogs.lse.ac.uk/economichistory/2022/05/19/spreading-the-scientific-revolution-in-english-universities/'
@@ -24,7 +24,7 @@ links:
     name: Follow
     url: https://twitter.com/juliuskoschnick
 url_code: ''
-url_pdf: 'https://www.dropbox.com/scl/fi/vzsyd0ln4n78348uaumvj/JMP-Julius-Koschnick-10.12.2023.pdf?rlkey=bodfdrk7x336j9jj21if6dkow&dl=0'
+url_pdf: '/pdf/Teacher directed change.pdf'
 url_slides: ''
 url_video: 'https://vimeo.com/886100295?share=copy'
 
@@ -35,12 +35,22 @@ url_video: 'https://vimeo.com/886100295?share=copy'
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-**Long Abstract**
+**Abstract**
 
-The production of ideas in science is crucial for human progress and economic growth. However, there is little consensus on whether universities were crucial for the birth and rise of the Scientific Revolution in early modern Europe. The question is crucial for our understanding of the origin of the Scientific Revolution, but also for the interplay between forces of tradition and innovation in the production of new knowledge. This paper studies the teacher effect on students’ future research at the English universities of Oxford and Cambridge during the time of the English Scientific Revolution. It shows that innovative teachers publishing in the fields of the Scientific Revolution made their students more likely to publish in the same fields and to have more innovative papers within the field. The findings show that the English universities were important for the intergenerational transmission of frontier knowledge within the fields of the Scientific Revolution. 
+ While economic factors in directed technical and scientific change have been widely studied,
+ the role of teacher-directed scientific change has received less attention. This paper studies
+ teacher-directed scientific change for one of the largest changes in the direction of research,
+ the Scientific Revolution. Specifically, the paper considers the case of the English Scientific
+ Revolution at the universities of Oxford and Cambridge during 1600–1720. It argues that
+ exposure to different teachers shaped students’ direction of research and can partly account
+ for the successful trajectory of English science. For this, the paper introduces a novel dataset
+ on the universe of 111,242 students at the universities of Oxford and Cambridge and their
+ publications. Using natural language processing, the paper derives a measure of researchers’
+ direction of research. To derive causal estimates of teacher-student effects, the paper uses an
+ instrumental variable design that predicts students’ choice of college based on their home regions,
+ a stacked differences-in-differences approach exploiting teachers leaving their college, and a
+ natural experiment based on the expulsion of teachers following the English Civil War. The
+ paper finds empirical evidence of teacher-directed change in the English Scientific Revolution.
+ These results illustrate how teacher-directed change can contribute to paradigm change.
 
-The paper introduces a novel dataset on the universe of all 111,242 students at English universities in the seventeenth and early eighteenth century. It then matches university students and university teachers to published works in the English Short Title Catalogue (ESTC) for the seventeenth and eighteenth century. Based on the subject classification entries from the ESTC, the paper uses machine learning techniques to assign topic headings to all titles within the ESTC. The paper further introduces a novel measure calculating a title’s innovativeness based on natural language processing techniques. The paper further matches students and teachers to membership lists of the Royal Society capturing the institutional aspect of the new science in England.
-
-The paper finds a strong effect of teachers publishing in the fields of the Scientific Revolution on their students picking up the same field as well as producing more innovative publications within the field. Causality is inferred through using a natural experiment based on the expulsion of old fellows and intrusion of new fellow following the English Civil War. The paper further introduces a shift-share type of instrument that predicts students’ choice of colleges based on the historically strong local links between colleges and English regions. Overall, the paper shows that the English universities were important for inspiring the next generation of English scientists. With this, it adds another dimension to the literature on the Great Divergence by highlighting the importance of the design and practise of knowledge transmission within institutions of higher learning.
-
-[See my LSE blog post and poster](https://blogs.lse.ac.uk/economichistory/2022/05/19/spreading-the-scientific-revolution-in-english-universities/)
+[See my older LSE blog post and poster](https://blogs.lse.ac.uk/economichistory/2022/05/19/spreading-the-scientific-revolution-in-english-universities/)

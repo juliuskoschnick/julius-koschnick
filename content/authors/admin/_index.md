@@ -81,6 +81,6 @@ I am an Assistant Professor at the Department of Economics at the University of 
 My research interests include long-run growth, human capital formation, knowledge transmission, and natural language processing. 
 {style="text-align: justify;"} {{% staticref "uploads/resume.pdf" %}}Download my CV{{% /staticref %}}
 
-{style="text-align: justify;"} {{% staticref "https://www.dropbox.com/scl/fi/vzsyd0ln4n78348uaumvj/JMP-Julius-Koschnick-10.12.2023.pdf?rlkey=bodfdrk7x336j9jj21if6dkow&dl=0" %}}Download my JMP{{% /staticref %}}
+{style="text-align: justify;"} {{% staticref "/pdf/Teacher directed change.pdf" %}}Download latest draft of *Teacher-directed scientific change: The case of the English Scientific Revolution*{{% /staticref %}}
 
 
