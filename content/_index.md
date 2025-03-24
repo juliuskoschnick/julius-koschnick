@@ -42,7 +42,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Latest draft
+      title: Latest working paper
       filters:
         folders:
           - publication
@@ -60,7 +60,7 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
     design:
       columns: '2'
       view: citation

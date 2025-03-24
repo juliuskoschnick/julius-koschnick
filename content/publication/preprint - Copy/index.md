@@ -45,9 +45,18 @@ tags:
 featured: true
 
 links:
-url_pdf: '/pdf/Teacher directed change.pdf'
+  - name: PDF - working paper
+    url: 'https://ehes.org/wp/EHES_274.pdf'
+  - name: PDF - current draft
+    url: '/pdf/Supplementary document.pdf'
+  - name: Video Presentation
+    url: 'https://vimeo.com/886100295?share=copy'
+
+
+#links:
+#url_pdf: '/pdf/Teacher directed change.pdf'
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://vimeo.com/886100295?share=copy'
+#url_video: 'https://vimeo.com/886100295?share=copy'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
