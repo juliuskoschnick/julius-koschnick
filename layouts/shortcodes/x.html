@@ -1,0 +1,16 @@
+{{/* layouts/shortcodes/x.html
+Allows either:
+  {{< x url="https://x.com/handle/status/123" >}}
+or
+  {{< x user="handle" id="123" >}}
+Renders a plain link so builds never fail.
+*/}}
+
+{{- $url := .Get "url" | default "" -}}
+{{- if and (eq $url "") (and (.Get "user") (.Get "id")) -}}
+  {{- $url = printf "https://x.com/%s/status/%s" (.Get "user") (.Get "id") -}}
+{{- end -}}
+
+{{- if ne $url "" -}}
+  <a href="{{ $url | safeURL }}" target="_blank" rel="noopener">View on X</a>
+{{- end -}}
