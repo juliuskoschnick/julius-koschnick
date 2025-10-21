@@ -729,6 +729,27 @@
   
     
       
+      
+<script>
+(function(){
+  if (window.__x_widgets_loaded) {
+    if (window.twttr && twttr.widgets && twttr.widgets.load) { twttr.widgets.load(); }
+    return;
+  }
+  var s = document.createElement('script');
+  s.async = true;
+  s.src = 'https://platform.x.com/widgets.js';
+  s.charset = 'utf-8';
+  document.head.appendChild(s);
+  window.__x_widgets_loaded = true;
+})();
+</script>
+
+      
+    
+  
+    
+      
       <script async defer src="https://buttons.github.io/buttons.js"></script>
 
       
