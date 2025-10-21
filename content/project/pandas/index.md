@@ -17,7 +17,8 @@ In my paper ["Teacher-directed change: The case of the English Scientific Revolu
 
 You can find a short summary of the paper here (or just head to the [paper](https://ehes.org/wp/EHES_274.pdf) itself):
 
-[See the summary on X](https://x.com/juliuskoschnick/status/1904153755253084438)
+"{{< tweet user=\"juliuskoschnick\" id=\"1904153755253084438\" >}}"
+
 
 Or listen to this NotebookLM podcast here:
 

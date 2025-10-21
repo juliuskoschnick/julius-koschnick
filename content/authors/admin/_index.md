@@ -140,6 +140,6 @@ outputs: ["HTML"]
 
 ## About Me
 
-  I am an Assistant Professor and Marie Curie Fellow at the Department of Economics at the University of Southern Denmark (SDU), part of the Danish Institute for Advanced Study (DIAS) and the Historical Economics and Development Group (HEDG).
+I am an Assistant Professor and Marie Curie Fellow at the Department of Economics at the University of Southern Denmark (SDU), part of the Danish Institute for Advanced Study (DIAS) and the Historical Economics and Development Group (HEDG).
 
 My research interests include long-run growth, human capital formation, knowledge transmission, and natural language processing.

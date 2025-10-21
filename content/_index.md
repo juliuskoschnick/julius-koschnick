@@ -57,6 +57,7 @@ sections:
       # Use the standard Hugo shortcode syntax
       text: "{{< tweet user=\"juliuskoschnick\" id=\"1942221220818399277\" >}}"
 
+
   - block: collection
     id: projects
     content:

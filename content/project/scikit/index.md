@@ -8,7 +8,7 @@ tags:
 </small> *Picture --- The view from the rigging from the replica of the Götheborg* </small>
 
 For some reflections on technology, skills, and the age of sail after my voyage on the Götheborg as part of the crew, take a look at this Twitter thread:
-[See the summary on X](https://x.com/juliuskoschnick/status/1562395926970376192)
+"{{< tweet user=\"juliuskoschnick\" id=\"1562395926970376192\" >}}"
 
 
 

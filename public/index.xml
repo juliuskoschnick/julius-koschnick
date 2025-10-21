@@ -40,7 +40,10 @@
       <guid>http://localhost:1313/project/scikit/</guid>
       <description>&lt;p&gt;&lt;/small&gt; &lt;em&gt;Picture &amp;mdash; The view from the rigging from the replica of the Götheborg&lt;/em&gt; &lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;For some reflections on technology, skills, and the age of sail after my voyage on the Götheborg as part of the crew, take a look at this Twitter thread:
-&lt;a href=&#34;https://x.com/juliuskoschnick/status/1562395926970376192&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;See the summary on X&lt;/a&gt;&lt;/p&gt;
+&amp;ldquo;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Lately I was part of the crew of the Götheborg sailing from London to Bremerhaven. The Götheborg is a replica of a 1735 Swedish East Indiaman. It was a wonderful experience with the best of people. Based on my experience here are some thought pieces on economic history 🧵 [1/18] &lt;a href=&#34;https://t.co/AB53cpr6Eh&#34;&gt;pic.twitter.com/AB53cpr6Eh&lt;/a&gt;&lt;/p&gt;&amp;mdash; Julius Koschnick (@JuliusKoschnick) &lt;a href=&#34;https://twitter.com/JuliusKoschnick/status/1562395926970376192?ref_src=twsrc%5Etfw&#34;&gt;August 24, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;I am further glad that there is an active interest in maritime history within our field of economic history. Please find a small collection of publications on maritime economic history:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;North, D. (1958). Ocean freight rates and economic development 1730-1913. The Journal of Economic History, 18(4), 537-555.&lt;/li&gt;
@@ -92,7 +95,10 @@
 &lt;p&gt;Seventeenth-century universities stood at the intersection of medieval and modern regimes of knowledge production. On one hand, curricula remained largely rooted in scholastic and Aristotelian traditions—particularly in England. On the other hand, universities continued to serve as key sites of intellectual exchange. A central mechanism of this exchange was the vertical transmission of ideas between teachers and students.&lt;/p&gt;
 &lt;p&gt;In my paper &lt;a href=&#34;https://juliuskoschnick.com/publication/preprint---copy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Teacher-directed change: The case of the English Scientific Revolution&amp;rdquo;&lt;/a&gt;, I argue that despite their traditionalism, the universities of Oxford and Cambridge played a critical role in passing on the ideas of the Scientific Revolution to a new generation of scholars.&lt;/p&gt;
 &lt;p&gt;You can find a short summary of the paper here (or just head to the &lt;a href=&#34;https://ehes.org/wp/EHES_274.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; itself):&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://x.com/juliuskoschnick/status/1904153755253084438&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;See the summary on X&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;I’m happy to announce that my JMP🚨🚨Teacher-directed change: The case of the English Scientific Revolution” is now out as a working paper. Finalising the draft has been a lot of work. So, very happy to share this! For lots of history, new micro-data&amp;amp;natural experiments, read on &lt;a href=&#34;https://t.co/hTX2CKhj5C&#34;&gt;pic.twitter.com/hTX2CKhj5C&lt;/a&gt;&lt;/p&gt;&amp;mdash; Julius Koschnick (@JuliusKoschnick) &lt;a href=&#34;https://twitter.com/JuliusKoschnick/status/1904153755253084438?ref_src=twsrc%5Etfw&#34;&gt;March 24, 2025&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;Or listen to this NotebookLM podcast here:&lt;/p&gt;
 &lt;audio controls preload=&#34;none&#34; style=&#34;width:100%&#34;&gt;
   &lt;source src=&#34;http://localhost:1313/audio/podcast.wav&#34; type=&#34;audio/wav&#34;&gt;
@@ -351,7 +357,7 @@
 
 
 
-&lt;div id=&#34;chart-219465387&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-913564728&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -369,7 +375,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-219465387&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-913564728&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
