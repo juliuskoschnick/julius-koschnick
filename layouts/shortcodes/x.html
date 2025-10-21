@@ -1,16 +1,46 @@
 {{/* layouts/shortcodes/x.html
-Allows either:
+Usage:
   {{< x url="https://x.com/handle/status/123" >}}
-or
+  or
   {{< x user="handle" id="123" >}}
-Renders a plain link so builds never fail.
 */}}
 
-{{- $url := .Get "url" | default "" -}}
-{{- if and (eq $url "") (and (.Get "user") (.Get "id")) -}}
-  {{- $url = printf "https://x.com/%s/status/%s" (.Get "user") (.Get "id") -}}
+{{- $url := "" -}}
+{{- with .Get "url" -}}
+  {{- $url = . -}}
+{{- else -}}
+  {{- $user := .Get "user" -}}
+  {{- $id := .Get "id" -}}
+  {{- if and $user $id -}}
+    {{- $url = printf "https://x.com/%s/status/%s" $user $id -}}
+  {{- else -}}
+    {{- errorf "shortcode x: provide either url=... or user=... and id=..." -}}
+  {{- end -}}
 {{- end -}}
 
-{{- if ne $url "" -}}
-  <a href="{{ $url | safeURL }}" target="_blank" rel="noopener">View on X</a>
-{{- end -}}
+<blockquote class="twitter-tweet" data-dnt="true">
+  <a href="{{ $url | safeURL }}"></a>
+</blockquote>
+
+<script>
+(function(){
+  if (window.__x_widgets_loaded) {
+    if (window.twttr && twttr.widgets && twttr.widgets.load) { twttr.widgets.load(); }
+    return;
+  }
+  var s = document.createElement('script');
+  s.async = true;
+  s.src = 'https://platform.x.com/widgets.js';
+  s.charset = 'utf-8';
+  s.onerror = function(){
+    // Fallback for environments where x.com is blocked
+    var s2 = document.createElement('script');
+    s2.async = true;
+    s2.src = 'https://platform.twitter.com/widgets.js';
+    s2.charset = 'utf-8';
+    document.head.appendChild(s2);
+  };
+  document.head.appendChild(s);
+  window.__x_widgets_loaded = true;
+})();
+</script>
