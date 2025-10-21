@@ -8,7 +8,9 @@ tags:
 </small> *Picture --- The view from the rigging from the replica of the Götheborg* </small>
 
 For some reflections on technology, skills, and the age of sail after my voyage on the Götheborg as part of the crew, take a look at this Twitter thread:
-{{< x user="juliuskoschnick" id="1562395926970376192" >}}
+[See the summary on X](https://x.com/juliuskoschnick/status/1562395926970376192)
+
+
 
 I am further glad that there is an active interest in maritime history within our field of economic history. Please find a small collection of publications on maritime economic history:
 
