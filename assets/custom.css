@@ -1,0 +1,24 @@
+/* === Global background override (light + dark) === */
+/* HSL for #eae7d6 ≈ 51 32% 88% */
+:root,
+:root[data-theme],
+html[data-mode="light"],
+html[data-mode="dark"] {
+  --background: 51 32% 88% !important;
+}
+
+/* Fallback + ensure wrappers inherit the new background */
+html, body,
+.page, .site, .page-wrapper,
+.bg-background {
+  /* Fallback for places not using the CSS variable */
+  background-color: #eae7d6 !important;
+  /* Preferred path used by the theme */
+  background: hsl(var(--background)) !important;
+}
+
+/* Common utility classes that can keep pages looking “white” */
+.bg-white, .bg-zinc-50, .bg-neutral-50, .bg-gray-50, .bg-slate-50 {
+  background: hsl(var(--background)) !important;
+  background-color: #eae7d6 !important;
+}

@@ -3,9 +3,8 @@
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-# Appearance
 appearance:
-  mode: system
+  mode: light
   color: emerald
 
 # SEO
@@ -35,7 +34,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Julius Koschnick"
 
 # Site footer
 footer:
@@ -49,7 +48,7 @@ footer:
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: '02 Jan 2006'
   time_format: '3:04 PM'
 
 # Site features
@@ -58,3 +57,9 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+params:
+  customCSS:
+    - css/custom.css
+
+    

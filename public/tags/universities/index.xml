@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Universities | Academic Website Julius Koschnick</title>
+    <link>http://localhost:1313/tags/universities/</link>
+      <atom:link href="http://localhost:1313/tags/universities/index.xml" rel="self" type="application/rss+xml" />
+    <description>Universities</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Universities</title>
+      <link>http://localhost:1313/tags/universities/</link>
+    </image>
+    
+    <item>
+      <title>The English universities in the 17th century</title>
+      <link>http://localhost:1313/project/pandas/</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pandas/</guid>
+      <description>&lt;p&gt;&lt;small&gt; &lt;em&gt;Picture: Magdalen College in 1566 from Foster&amp;rsquo;s Alumni Oxeniensis&lt;/em&gt; &lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Seventeenth-century universities stood at the intersection of medieval and modern regimes of knowledge production. On one hand, curricula remained largely rooted in scholastic and Aristotelian traditions—particularly in England. On the other hand, universities continued to serve as key sites of intellectual exchange. A central mechanism of this exchange was the vertical transmission of ideas between teachers and students.&lt;/p&gt;
+&lt;p&gt;In my paper &lt;a href=&#34;http://juliuskoschnick.com//publication/preprint---copy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Teacher-directed change: The case of the English Scientific Revolution&amp;rdquo;&lt;/a&gt;, I argue that despite their traditionalism, the universities of Oxford and Cambridge played a critical role in passing on the ideas of the Scientific Revolution to a new generation of scholars.&lt;/p&gt;
+&lt;p&gt;You can find a short summary of the paper here (or just head to the &lt;a href=&#34;https://ehes.org/wp/EHES_274.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; itself.):
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;I’m happy to announce that my JMP🚨🚨Teacher-directed change: The case of the English Scientific Revolution” is now out as a working paper. Finalising the draft has been a lot of work. So, very happy to share this! For lots of history, new micro-data&amp;amp;natural experiments, read on &lt;a href=&#34;https://t.co/hTX2CKhj5C&#34;&gt;pic.twitter.com/hTX2CKhj5C&lt;/a&gt;&lt;/p&gt;&amp;mdash; Julius Koschnick (@JuliusKoschnick) &lt;a href=&#34;https://twitter.com/JuliusKoschnick/status/1904153755253084438?ref_src=twsrc%5Etfw&#34;&gt;March 24, 2025&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Or feel free to listen to this &lt;a href=&#34;https://notebooklm.google.com/notebook/79a79ed7-374c-409e-81d7-c13cf44cfec1/audio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NotebookLM&lt;/a&gt; podcast here:.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+&lt;audio controls &gt;
+  &lt;source src=&#34;http://localhost:1313/audio/podcast.wav&#34; type=&#34;audio/wav&#34;&gt;
+&lt;/audio&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

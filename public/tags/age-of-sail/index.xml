@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Age of Sail | Academic Website Julius Koschnick</title>
+    <link>http://localhost:1313/tags/age-of-sail/</link>
+      <atom:link href="http://localhost:1313/tags/age-of-sail/index.xml" rel="self" type="application/rss+xml" />
+    <description>Age of Sail</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Age of Sail</title>
+      <link>http://localhost:1313/tags/age-of-sail/</link>
+    </image>
+    
+    <item>
+      <title>Technology and the age of sail</title>
+      <link>http://localhost:1313/project/scikit/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/scikit/</guid>
+      <description>&lt;p&gt;&lt;/small&gt; &lt;em&gt;Picture &amp;mdash; The view from the rigging from the replica of the Götheborg&lt;/em&gt; &lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;For some reflections on technology, skills, and the age of sail after my voyage on the Götheborg as part of the crew, take a look at this Twitter thread:
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Lately I was part of the crew of the Götheborg sailing from London to Bremerhaven. The Götheborg is a replica of a 1735 Swedish East Indiaman. It was a wonderful experience with the best of people. Based on my experience here are some thought pieces on economic history 🧵 [1/18] &lt;a href=&#34;https://t.co/AB53cpr6Eh&#34;&gt;pic.twitter.com/AB53cpr6Eh&lt;/a&gt;&lt;/p&gt;&amp;mdash; Julius Koschnick (@JuliusKoschnick) &lt;a href=&#34;https://twitter.com/JuliusKoschnick/status/1562395926970376192?ref_src=twsrc%5Etfw&#34;&gt;August 24, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;/p&gt;
+&lt;p&gt;I am further glad that there is an active interest in maritime history within our field of economic history. Please find a small collection of publications on maritime economic history:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;North, D. (1958). Ocean freight rates and economic development 1730-1913. The Journal of Economic History, 18(4), 537-555.&lt;/li&gt;
+&lt;li&gt;Harley, C. K. (1971). The shift from sailing ships to steamships, 1850–1890: a study in technological change and its diffusion. In Essays on a mature economy: Britain after 1840 (pp. 215-237). Routledge.&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;Pascali, L. (2017). The wind of change: Maritime technology, trade, and economic development. American Economic Review, 107(9), 2821-2854.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Kelly, M., &amp;amp; Ó Gráda, C. (2019). Speed under sail during the early industrial revolution (c. 1750–1830). The Economic History Review, 72(2), 459-480.&lt;/li&gt;
+&lt;li&gt;Arteaga, F., Desierto, D., &amp;amp; Koyama, M. (2024). Shipwrecked by rents. Journal of Development Economics, 168, 103240.&lt;/li&gt;
+&lt;li&gt;Miotto, M., &amp;amp; Pascali, L. (2025). Solving the longitude puzzle: A story of clocks, ships and cities. Journal of International Economics, 155, 104067.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Beyond that, in my humble opinion, these two classics cannot miss in such a list:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rodger, N. A. M. (1999). The safeguard of the sea: A naval history of Britain, 660–1649 (Vol. 1). W. W. Norton.&lt;/li&gt;
+&lt;li&gt;Rodger, N. A. M. (2005). The command of the ocean: A naval history of Britain, 1649–1815 (Vol. 2). W. W. Norton.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The list is unauthorative and just intended as a simple help for anyone interested in maritime history. Should I have missed a (your) publication, please send me an email and I will be most happy to add it to the list.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

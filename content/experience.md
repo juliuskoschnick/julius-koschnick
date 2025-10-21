@@ -20,7 +20,7 @@ sections:
       is_education_first: false
   - block: resume-skills
     content:
-      title: Skills & Hobbies
+      title: Skills
       username: admin
     design:
       show_skill_percentage: false
@@ -32,4 +32,23 @@ sections:
     content:
       title: Languages
       username: admin
+  - block: markdown
+    id: exp-header-img
+    content:
+      title: ""
+      text: >-
+        <figure style="max-width:60%; margin:0 auto;">
+          <img
+            src="/images/julius_koschnick.jpg"
+            alt="Julius Koschnick at the Workshop on Technology and Long-Term Development at the University of Valencia"
+            style="width:100%; height:auto; border-radius:0.5rem;"
+            aria-describedby="exp-caption"
+          />
+          <figcaption
+            id="exp-caption"
+            style="text-align:center; font-size:0.875rem; color:#555;"
+          >
+            Presenting at the Workshop on Technology and Long-Term Development at the University of Valencia.
+          </figcaption>
+        </figure>
 ---

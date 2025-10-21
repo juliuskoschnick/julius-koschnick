@@ -1,186 +1,145 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Julius Koschnick
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Julius
+last_name: Koschnick
 
-# Status emoji
-status:
-  icon: ☕️
-
-# Is this the primary user of the site?
 superuser: true
-
-# Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# Role/position/tagline
-role: Chief Scientist
+role: Assistant Professor
 
-# Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Southern Denmark, Department of Economics
+    url: https://portal.findresearcher.sdu.dk/en/persons/juko
 
-# Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+  - icon: envelope
+    url: 'mailto:juko@sam.sdu.dk'
+    label: Email Me
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=5ftP-EcAAAAJ&hl=en&oi=ao
+    label: Google Scholar
+  - icon: brands/twitter
+    url: https://twitter.com/juliuskoschnick
+    label: Follow me on Twitter (@juliuskoschnick)
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/juliuskoschnick.bsky.social
+    label: Follow me on Bluesky
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0001-1514-052X
+    label: ORCID
+  - icon: scroll-solid
+    url: uploads/resume.pdf
+    label: Download CV
+  - icon: globe
+    url: https://portal.findresearcher.sdu.dk/en/persons/juko
+    label: SDU Profile Page
+
+awards:
+  - title: "2023 Referee Prize for exceptional contribution in academic peer reviewing for The Economic Journal during 2023"
+    date: 2023-02-01
+    issuer: "The Economic Journal"
+    icon: "hero/trophy"  
+  - title: "Winner of the Hunt Prize awarded to the candidate with the best marks for the dissertation in the MSc Economic History (Research degree)"
+    date: 2019-09-01
+    issuer: "Economic History Department, London School of Economics"
+    icon: "hero/trophy"  
+  - title: "Winner of the prize for the best overall performance in the Department of Economic History Master Programmes 2018-19"
+    date: 2019-09-01
+    issuer: "Economic History Department, London School of Economics"
+    description: ""
+    icon: "hero/trophy"  
+
+
+
+
+bio: >
+  I am an Assistant Professor and Marie Curie Fellow at the Department of Economics at the University of Southern Denmark (SDU), part of the Danish Institute for Advanced Study (DIAS) and the Historical Economics and Development Group (HEDG).
+
+
+
+  My research interests include long-run growth, human capital formation, knowledge transmission, and natural language processing.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Long-run Economic Growth
+  - Human Capital Formation
+  - Knowledge Transmission
+  - Natural Language Processing
+  - Historical Data Analysis
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Economic History
+    institution: London School of Economics
+    date_start: 2019-09-01
+    date_end: 2024-04-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      Thesis title: *On the Shoulders of Science - Early Science as a Driver of Innovation During the Early Industrial Revolution*
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: MSc Economic History (Research)
+    institution: London School of Economics
+    date_start: 2018-09-01
+    date_end: 2019-09-01
+
+  - area: BA Philosophy & Economics
+    institution: University Bayreuth
+    date_start: 2013-10-01
+    date_end: 2017-09-01
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - position: Assistant Professor
+    company_name: University of Southern Denmark
+    company_url: https://portal.findresearcher.sdu.dk/en/persons/juko
+    date_start: 2024-08-15
+    date_end: ""
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      At the Department of Economics, part of the Danish Institute of Advanced Study (DIAS) and of the Historical Economics and Development Group (HEDG)
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
+  - position: Visiting Scholar
+    company_name: Northwestern University
+    company_url: https://www.northwestern.edu/
+    date_start: 2022-09-01
+    date_end: 2022-12-31
+    summary: |
+      Visiting scholar at the Department of Economics, hosted by Prof. Joel Mokyr
+
 skills:
-  - name: Technical Skills
+  - name: Research & Methods
     items:
+      - name: NLP 
+        description: Working with transformer models, model training, fine-tuning of large models, building economic indicators based on text data
+        percent: 100
       - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
+        description: Data analysis, natural language processing
         percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
+      - name: R
+        description: Data analysis, simulations, regression analysis
+        percent: 100
+      - name: Stata
+        description: Regression analysis
+        percent: 100
+      - name: ArcGIS
+        description: Spatial analysis
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+
+
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: German
+    percent: 100
+  - name: Danish
+    percent: 20
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+outputs: ["HTML"]
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+  I am an Assistant Professor and Marie Curie Fellow at the Department of Economics at the University of Southern Denmark (SDU), part of the Danish Institute for Advanced Study (DIAS) and the Historical Economics and Development Group (HEDG).
+
+My research interests include long-run growth, human capital formation, knowledge transmission, and natural language processing.

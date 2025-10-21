@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Academic Website Julius Koschnick</title>
+    <link>http://localhost:1313/publication_types/3/</link>
+      <atom:link href="http://localhost:1313/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>3</title>
+      <link>http://localhost:1313/publication_types/3/</link>
+    </image>
+    
+    <item>
+      <title>Teacher-directed scientific change: The case of the English Scientific Revolution</title>
+      <link>http://localhost:1313/publication/preprint---copy/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/preprint---copy/</guid>
+      <description>&lt;p&gt;Feel free to listen to this &lt;a href=&#34;https://notebooklm.google.com/notebook/79a79ed7-374c-409e-81d7-c13cf44cfec1/audio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NotebookLM&lt;/a&gt; podcast on the paper here:&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+&lt;audio controls &gt;
+  &lt;source src=&#34;http://localhost:1313/audio/podcast.wav&#34; type=&#34;audio/wav&#34;&gt;
+&lt;/audio&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

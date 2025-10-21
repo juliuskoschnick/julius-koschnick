@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wowchemy | Academic Website Julius Koschnick</title>
+    <link>http://localhost:1313/tags/wowchemy/</link>
+      <atom:link href="http://localhost:1313/tags/wowchemy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wowchemy</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Wowchemy</title>
+      <link>http://localhost:1313/tags/wowchemy/</link>
+    </image>
+    
+    <item>
+      <title>The English universities in the 17th century</title>
+      <link>http://localhost:1313/project/pandas/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pandas/</guid>
+      <description>&lt;p&gt;Picture: Magdalen College from Foster&amp;rsquo;s Alumni Oxeniensis&lt;/p&gt;
+&lt;p&gt;I have written a comprehensive overview of my paper &amp;ldquo;Teacher-directed change: The case of the English Scientific Revolution&amp;rdquo; here:&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;I’m happy to announce that my JMP🚨🚨Teacher-directed change: The case of the English Scientific Revolution” is now out as a working paper. Finalising the draft has been a lot of work. So, very happy to share this! For lots of history, new micro-data&amp;amp;natural experiments, read on &lt;a href=&#34;https://t.co/hTX2CKhj5C&#34;&gt;pic.twitter.com/hTX2CKhj5C&lt;/a&gt;&lt;/p&gt;&amp;mdash; Julius Koschnick (@JuliusKoschnick) &lt;a href=&#34;https://twitter.com/JuliusKoschnick/status/1904153755253084438?ref_src=twsrc%5Etfw&#34;&gt;March 24, 2025&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;I want to use this space to add some further reflections.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

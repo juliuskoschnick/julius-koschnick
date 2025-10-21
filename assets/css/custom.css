@@ -1,0 +1,26 @@
+/* Light mode background (your beige) */
+html, body {
+  background-color: #eae7d6 !important;
+}
+
+/* Dark mode background (nearly black-brown) */
+html.dark body,
+html[data-mode="dark"] body,
+html[data-theme="dark"] body,
+:root[data-mode="dark"] body {
+  background-color: #181614 !important; /* adjust if you want a different dark tone */
+}
+
+/* Optional: ensure top-level wrappers follow the same background */
+html.dark .page, html.dark .page-wrapper,
+html[data-mode="dark"] .page, html[data-mode="dark"] .page-wrapper,
+html[data-theme="dark"] .page, html[data-theme="dark"] .page-wrapper {
+  background-color: #181614 !important;
+}
+
+/* (Optional) keep text readable in dark mode */
+html.dark body,
+html[data-mode="dark"] body,
+html[data-theme="dark"] body {
+  color: #f2f2f2 !important;
+}
