@@ -54,9 +54,8 @@ sections:
     id: news
     content:
       title: News
-      text: >-
-        {{< x user="juliuskoschnick" id="1942221220818399277" >}}
-
+      # Use the standard Hugo shortcode syntax
+      text: "{{< tweet user=\"juliuskoschnick\" id=\"1942221220818399277\" >}}"
 
   - block: collection
     id: projects
