@@ -18,7 +18,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.136.5'   # 👈 pin to a pre-breaking version
+          hugo-version: '0.145.0'   # 👈 pin to a pre-breaking version
           extended: true
       - name: Configure Pages
         uses: actions/configure-pages@v5
