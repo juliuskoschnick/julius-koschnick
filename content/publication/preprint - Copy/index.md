@@ -46,7 +46,7 @@ tags:
 - Scientific Revolution
 featured: true
 
-url_pdf: 'https://ehes.org/wp/EHES_274.pdf'
+url_pdf: '/pdf/Teacher directed change.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -64,6 +64,15 @@ projects:
 - internal-project
 
 slides: ""
+
+# 2. Extra buttons under the abstract / on the card
+links:
+  - name: Working paper
+    url: "https://ehes.org/wp/EHES_274.pdf"
+    attributes:
+      target: _blank
+      rel: noopener
+
 ---
 
 Feel free to listen to this [NotebookLM](https://notebooklm.google.com/notebook/79a79ed7-374c-409e-81d7-c13cf44cfec1/audio) podcast on the paper here:
