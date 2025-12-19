@@ -5,12 +5,20 @@
     <link>http://localhost:1313/tags/scientific-revolution/</link>
       <atom:link href="http://localhost:1313/tags/scientific-revolution/index.xml" rel="self" type="application/rss+xml" />
     <description>Scientific Revolution</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Scientific Revolution</title>
       <link>http://localhost:1313/tags/scientific-revolution/</link>
     </image>
+    
+    <item>
+      <title>Teacher-directed scientific change: The case of the English Scientific Revolution</title>
+      <link>http://localhost:1313/publication/preprint---copy---copy/</link>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/preprint---copy---copy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The English universities in the 17th century</title>
