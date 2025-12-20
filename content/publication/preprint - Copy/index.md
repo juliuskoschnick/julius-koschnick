@@ -56,7 +56,7 @@ url_source: ''
 url_video: 'https://vimeo.com/886100295?share=copy'
 
 image:
-  caption: 'An old scholar. Created with Midjourney.'
+  caption: 'J.M.W. Turner - High Street, Oxford (1810)'
   focal_point: ""
   preview_only: false
 
