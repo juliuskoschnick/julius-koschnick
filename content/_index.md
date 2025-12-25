@@ -25,7 +25,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Latest Working Paper
+      title: Latest Working Papers
       filters:
         folders:
           - publication
