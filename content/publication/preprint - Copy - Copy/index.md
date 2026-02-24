@@ -25,7 +25,7 @@ abstract: >
   What was the origin of modern economic growth? Joel Mokyr has argued that self sustained modern economic growth originated from a feedback loop between propositional (theoretical) and prescriptive (applied) knowledge, which turned positive in the eighteenth century during the “Industrial Enlightenment”. While influential, this thesis has never been directly tested. This paper provides the first quantitative evidence by estimating the impact of knowledge spillovers between propositional and prescriptive knowledge on innovation in England, 1600–1800. For this, it introduces two new text-based measures for 1) the innovativeness of publications and 2) knowledge spillovers. The paper finds strong evidence that a feedback loop between propositional and prescriptive knowledge became positive during the second half of the eighteenth century. It also documents that this process had positive effects on the real economy as measured through patents. Overall, the findings provide empirical support for Mokyr’s original hypothesis.
 
 summary: >
-  This paper quantitatively tests the feedback loop hypothesis of Joel Mokyr using historical text data. 
+  This paper quantitatively tests Joel Mokyr’s feedback loop hypothesis using historical text data. 
 
 
 tags:
