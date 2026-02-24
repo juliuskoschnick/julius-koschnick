@@ -39,7 +39,7 @@ abstract: >
   These results illustrate how teacher-directed change can contribute to paradigm change. 
 
 summary: >
-  This paper studies teacher-directed scientific change during the Scientific Revolution. It shows that teachers at Oxford and Cambridge in the seventeenth century influenced students’ research direction. 
+  This paper studies teacher-directed scientific change during the Scientific Revolution. It shows that teachers at seventeenth century Oxford and Cambridge shaped students’ direction of research. 
 
 
 tags:
