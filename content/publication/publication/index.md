@@ -37,7 +37,7 @@ summary: >
   Economic societies emerged during the late eighteenth century. We argue that these institutions reduced the costs of accessing useful knowledge by adopting, producing, and diffusing new ideas.
 
 tags:
-- Source Themes
+- Human Capital
 
 
 

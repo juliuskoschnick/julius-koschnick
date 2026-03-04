@@ -30,6 +30,8 @@ summary: >
 
 tags:
 - Scientific Revolution
+- England
+- Natural language processing
 featured: true
 
 url_pdf: '/pdf/Feedback loop.pdf'

@@ -44,6 +44,9 @@ summary: >
 
 tags:
 - Scientific Revolution
+- England
+- Human Capital
+- Natural language processing
 featured: true
 
 url_pdf: '/pdf/Teacher directed change.pdf'
